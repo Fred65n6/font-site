@@ -3,7 +3,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        hero: "url('./imgs/sovereign_edits-67.jpg')",
+        hero: "url('./imgs/group 7.png')",
         om_os: "url('./imgs/sovereign_edits-68.jpg')",
       },
       height: {
