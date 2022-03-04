@@ -19,8 +19,8 @@ p {
 
 @layer components {
   .flicker-1 {
-    -webkit-animation: flicker-1 5s linear infinite both;
-    animation: flicker-1 5s linear infinite both;
+    -webkit-animation: flicker-1 8s linear infinite both;
+    animation: flicker-1 8s linear infinite both;
   }
 
   @-webkit-keyframes flicker-1 {
@@ -28,6 +28,7 @@ p {
     100% {
       opacity: 1;
     }
+
     41.99% {
       opacity: 1;
     }
