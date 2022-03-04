@@ -5,6 +5,7 @@ module.exports = {
       backgroundImage: {
         hero: "url('./imgs/group 7.png')",
         hero2: "url('./imgs/hero-2.png')",
+        hero3: "url('./imgs/hero-3.png')",
       },
       height: {
         size: "30rem",
