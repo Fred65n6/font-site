@@ -16,14 +16,14 @@
   }
 
   h2 {
-    color: white;
+    color: black;
     font-weight: 600;
     font-size: 2rem;
   }
 
   h3 {
     font-family: "Hind", sans-serif;
-    color: white;
+    color: black;
     font-weight: 600;
     font-size: 1.7rem;
   }
@@ -31,7 +31,6 @@
   h4 {
     color: black;
     font-weight: 600;
-    font-size: 1.2rem;
   }
 
   a {
@@ -40,7 +39,6 @@
   }
 
   p {
-    color: black;
     font-size: 0.975rem;
     font-family: "Hind", sans-serif;
   }
